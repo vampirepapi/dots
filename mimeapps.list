@@ -1,0 +1,4 @@
+[Added Associations]
+image/jpeg=org.gnome.gThumb.desktop;
+image/png=org.gnome.gThumb.desktop;
+application/x-shellscript=sublime_text.desktop;xed.desktop;

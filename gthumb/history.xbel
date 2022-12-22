@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/vampirepapi/Pictures/Screenshots" added="2022-12-20T16:10:13.967434Z" modified="2022-12-20T16:10:13.967441Z" visited="2022-12-20T16:10:13.967435Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-12-20T16:10:13.967438Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vampirepapi/Pictures" added="2022-12-20T16:10:13.967444Z" modified="2022-12-20T16:10:13.967448Z" visited="2022-12-20T16:10:13.967444Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-12-20T16:10:13.967446Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/vampirepapi/42F04A96F04A9059/Users/shubh/Downloads" added="2022-12-20T16:10:13.967452Z" modified="2022-12-20T16:10:13.967457Z" visited="2022-12-20T16:10:13.967452Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-12-20T16:10:13.967456Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/endeavouros/backgrounds/eos_wallpapers_community" added="2022-12-20T16:10:13.967460Z" modified="2022-12-20T16:10:13.967464Z" visited="2022-12-20T16:10:13.967460Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-12-20T16:10:13.967462Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
