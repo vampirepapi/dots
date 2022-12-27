@@ -1,0 +1,5 @@
+# Specify filepatterns you want git to ignore.
+nvim
+sublime-text
+sublime-merge
+Code

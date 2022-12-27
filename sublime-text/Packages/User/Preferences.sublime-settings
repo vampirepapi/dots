@@ -1,9 +1,9 @@
 {
 	"theme": "ayu-mirage.sublime-theme",
-	"font_size": 17,
+	"font_size": 18,
 	"ignored_packages":
 	[
 		"Vintage",
 	],
-	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+	"color_scheme": "ayu-mirage.sublime-color-scheme",
 }
