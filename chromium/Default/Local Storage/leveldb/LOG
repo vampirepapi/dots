@@ -1,9 +1,0 @@
-2023/01/15-22:20:05.560 3 Reusing MANIFEST /home/vampirepapi/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2023/01/15-22:20:05.561 3 Recovering log #107
-2023/01/15-22:20:05.562 3 Reusing old log /home/vampirepapi/.config/chromium/Default/Local Storage/leveldb/000107.log 
-2023/01/15-22:27:21.965 8 Level-0 table #111: started
-2023/01/15-22:27:22.000 8 Level-0 table #111: 27272 bytes OK
-2023/01/15-22:27:22.010 8 Delete type=0 #107
-2023/01/15-22:39:08.837 3 Level-0 table #113: started
-2023/01/15-22:39:08.868 3 Level-0 table #113: 26610 bytes OK
-2023/01/15-22:39:08.876 3 Delete type=0 #110
