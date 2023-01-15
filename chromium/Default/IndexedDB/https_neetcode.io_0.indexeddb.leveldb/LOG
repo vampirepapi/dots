@@ -1,0 +1,36 @@
+2023/01/10-20:12:35.639 805 Reusing MANIFEST /home/vampirepapi/.config/chromium/Default/IndexedDB/https_neetcode.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/10-20:12:35.639 805 Recovering log #80
+2023/01/10-20:12:35.639 805 Reusing old log /home/vampirepapi/.config/chromium/Default/IndexedDB/https_neetcode.io_0.indexeddb.leveldb/000080.log 
+2023/01/10-20:12:35.640 805 Delete type=2 #79
+2023/01/10-20:12:36.028 824 Level-0 table #85: started
+2023/01/10-20:12:36.032 824 Level-0 table #85: 836 bytes OK
+2023/01/10-20:12:36.038 824 Delete type=0 #80
+2023/01/10-20:12:36.038 824 Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1e\x00\x00\x05' @ 2056 : 1
+2023/01/10-20:12:36.038 824 Compacting 1@0 + 1@1 files
+2023/01/10-20:12:36.043 824 Generated table #86@0: 456 keys, 6479 bytes
+2023/01/10-20:12:36.043 824 Compacted 1@0 + 1@1 files => 6479 bytes
+2023/01/10-20:12:36.048 824 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/10-20:12:36.048 824 Delete type=2 #85
+2023/01/10-20:12:36.048 824 Manual compaction at level-0 from '\x00\x1e\x00\x00\x05' @ 2056 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/01/10-20:12:38.215 803 Level-0 table #88: started
+2023/01/10-20:12:38.219 803 Level-0 table #88: 2579 bytes OK
+2023/01/10-20:12:38.229 803 Delete type=0 #84
+2023/01/10-20:12:38.229 803 Delete type=2 #82
+2023/01/10-20:12:38.229 803 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at '\x00\x1f\x00\x00\x05' @ 2101 : 1
+2023/01/10-20:12:38.229 803 Compacting 1@0 + 1@1 files
+2023/01/10-20:12:38.236 803 Generated table #89@0: 457 keys, 6495 bytes
+2023/01/10-20:12:38.236 803 Compacted 1@0 + 1@1 files => 6495 bytes
+2023/01/10-20:12:38.240 803 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/10-20:12:38.241 803 Delete type=2 #88
+2023/01/10-20:12:38.241 803 Manual compaction at level-0 from '\x00\x1f\x00\x00\x05' @ 2101 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/01/10-20:29:34.408 5de3 Level-0 table #91: started
+2023/01/10-20:29:34.416 5de3 Level-0 table #91: 4431 bytes OK
+2023/01/10-20:29:34.425 5de3 Delete type=2 #86
+2023/01/10-20:29:34.425 5de3 Delete type=0 #87
+2023/01/10-20:29:34.425 5de3 Manual compaction at level-0 from '\x00 \x00\x00\x00' @ 72057594037927935 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at '\x00 \x00\x00\x05' @ 2192 : 1
+2023/01/10-20:29:34.425 5de3 Compacting 1@0 + 1@1 files
+2023/01/10-20:29:34.433 5de3 Generated table #92@0: 461 keys, 6544 bytes
+2023/01/10-20:29:34.433 5de3 Compacted 1@0 + 1@1 files => 6544 bytes
+2023/01/10-20:29:34.442 5de3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/10-20:29:34.442 5de3 Delete type=2 #91
+2023/01/10-20:29:34.443 5de3 Manual compaction at level-0 from '\x00 \x00\x00\x05' @ 2192 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at (end)

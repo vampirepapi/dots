@@ -1,0 +1,7 @@
+2023/01/08-19:47:15.169 16d35 Reusing MANIFEST /home/vampirepapi/.config/chromium/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/08-19:47:15.169 16d35 Recovering log #3
+2023/01/08-19:47:15.170 16d35 Reusing old log /home/vampirepapi/.config/chromium/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/000003.log 
+2023/01/08-19:51:13.669 160c7 Level-0 table #5: started
+2023/01/08-19:51:13.673 160c7 Level-0 table #5: 841 bytes OK
+2023/01/08-19:51:13.679 160c7 Delete type=0 #3
+2023/01/08-19:51:13.679 160c7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

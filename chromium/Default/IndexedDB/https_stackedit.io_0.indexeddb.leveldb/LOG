@@ -1,0 +1,6 @@
+2023/01/07-20:46:36.355 a663 Creating DB /home/vampirepapi/.config/chromium/Default/IndexedDB/https_stackedit.io_0.indexeddb.leveldb since it was missing.
+2023/01/07-20:46:36.367 a663 Reusing MANIFEST /home/vampirepapi/.config/chromium/Default/IndexedDB/https_stackedit.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/07-20:55:34.749 cdb9 Level-0 table #5: started
+2023/01/07-20:55:34.769 cdb9 Level-0 table #5: 249459 bytes OK
+2023/01/07-20:55:34.779 cdb9 Delete type=0 #3
+2023/01/07-20:55:34.780 cdb9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

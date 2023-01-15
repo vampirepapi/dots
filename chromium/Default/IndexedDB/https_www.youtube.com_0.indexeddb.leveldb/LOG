@@ -1,0 +1,21 @@
+2023/01/15-22:20:07.809 1f6e Reusing MANIFEST /home/vampirepapi/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/15-22:20:07.810 1f6e Recovering log #40
+2023/01/15-22:20:07.830 1f6e Reusing old log /home/vampirepapi/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000040.log 
+2023/01/15-22:20:21.851 1f6f Level-0 table #45: started
+2023/01/15-22:20:21.902 1f6f Level-0 table #45: 1213793 bytes OK
+2023/01/15-22:20:21.909 1f6f Delete type=0 #40
+2023/01/15-22:21:37.853 23d7 Compacting 1@1 + 1@2 files
+2023/01/15-22:21:37.872 23d7 Generated table #46@1: 405 keys, 39231 bytes
+2023/01/15-22:21:37.872 23d7 Compacted 1@1 + 1@2 files => 39231 bytes
+2023/01/15-22:21:37.882 23d7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/15-22:21:37.882 23d7 Delete type=2 #42
+2023/01/15-22:21:37.882 23d7 Delete type=2 #45
+2023/01/15-22:33:23.603 5732 Level-0 table #48: started
+2023/01/15-22:33:23.624 5732 Level-0 table #48: 1090308 bytes OK
+2023/01/15-22:33:23.630 5732 Delete type=0 #44
+2023/01/15-22:34:25.838 5572 Compacting 1@1 + 1@2 files
+2023/01/15-22:34:25.867 5572 Generated table #49@1: 406 keys, 41101 bytes
+2023/01/15-22:34:25.867 5572 Compacted 1@1 + 1@2 files => 41101 bytes
+2023/01/15-22:34:25.873 5572 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/15-22:34:25.873 5572 Delete type=2 #46
+2023/01/15-22:34:25.873 5572 Delete type=2 #48

@@ -1,0 +1,6 @@
+2023/01/08-22:46:09.349 4cfd2 Creating DB /home/vampirepapi/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb since it was missing.
+2023/01/08-22:46:09.361 4cfd2 Reusing MANIFEST /home/vampirepapi/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/08-22:46:56.369 4ca8b Level-0 table #5: started
+2023/01/08-22:46:56.377 4ca8b Level-0 table #5: 3766 bytes OK
+2023/01/08-22:46:56.386 4ca8b Delete type=0 #3
+2023/01/08-22:46:56.386 4ca8b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
