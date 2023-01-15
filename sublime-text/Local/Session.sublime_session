@@ -50,7 +50,7 @@
 	"last_version": 4143,
 	"last_window_id": 10,
 	"log_indexing": false,
-	"next_update_check": 1672547619,
+	"next_update_check": 1673802991,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -58,7 +58,7 @@
 		"new_window_maximized": false,
 		"new_window_position":
 		[
-			10.0,
+			964.0,
 			87.0
 		],
 		"new_window_settings":
@@ -275,7 +275,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 120.0
+				"height": 86.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -308,7 +308,7 @@
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 304.0,
 			"status_bar_visible": true,
 			"template_settings":
@@ -375,15 +375,15 @@
 							"revert",
 							null,
 							"AgAAAAAAAAAAAAAAAAAAAAAAAADRAAAAZGVmIGdldEVsZUF0SWR4KG4sIGwsIGlkeCk6CiAgICBpZiBuIC0gMSA8IGlkeDoKICAgICAgICByZXR1cm4gLTEKICAgIGZvciBpIGluIHJhbmdlKDAsIG4pOgogICAgICAgIGlmIGkgPT0gaWR4OgogICAgICAgICAgICByZXR1cm4gbFtpXQoKCm4gPSA0CmFyciA9IFsxLCAyLCAzLCA0XQppbmRleCA9IDAKCnByaW50KGdldEVsZUF0SWR4KG4sIGFyciwgaW5kZXgpKQoAAAAAAAAAANAAAAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACJAAAAAAAAAIkAAAAAAAAAAAAAAAAA8L8"
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							6,
 							1,
 							"revert",
 							null,
-							"AwAAAAAAAAAAAAAAAAAAAAAAAADQAAAAZGVmIGdldEVsZUF0SWR4KG4sIGwsIGlkeCk6CiAgICBpZiBuIC0gMSA8IGlkeDoKICAgICAgICByZXR1cm4gLTEKICAgIGZvciBpIGluIHJhbmdlKDAsIG4pOgogICAgICAgIGlmIGkgPT0gaWR4OgogICAgICAgICAgICByZXR1cm4gbFtpXQoKCm4gPSA0CmFyciA9IFsxLCAyLCAzLCA0XQppbmRleCA9IDAKcHJpbnQoZ2V0RWxlQXRJZHgobiwgYXJyLCBpbmRleCkpCgAAAAAAAAAA0AAAAAAAAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACJAAAAAAAAAIkAAAAAAAAAAAAAAAAA8L8"
+							"BQAAAAAAAAAAAAAAAAAAAAAAAADQAAAAZGVmIGdldEVsZUF0SWR4KG4sIGwsIGlkeCk6CiAgICBpZiBuIC0gMSA8IGlkeDoKICAgICAgICByZXR1cm4gLTEKICAgIGZvciBpIGluIHJhbmdlKDAsIG4pOgogICAgICAgIGlmIGkgPT0gaWR4OgogICAgICAgICAgICByZXR1cm4gbFtpXQoKCm4gPSA0CmFyciA9IFsxLCAyLCAzLCA0XQppbmRleCA9IDAKcHJpbnQoZ2V0RWxlQXRJZHgobiwgYXJyLCBpbmRleCkpCgAAAAAAAAAA0AAAAAAAAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
@@ -391,7 +391,7 @@
 					"file": "/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/problem/Array Delete And Shift.py",
 					"settings":
 					{
-						"buffer_size": 261,
+						"buffer_size": 265,
 						"line_ending": "Unix"
 					},
 					"undo_stack":
@@ -401,8 +401,284 @@
 							1,
 							"revert",
 							null,
-							"AwAAAAAAAAAAAAAAAAAAAAAAAAAFAQAAZGVmIGRlbGV0ZUZyb21BcnIoYXJyLCBuLCBpZHgpOgogICAgYXJyID0gW3ggZm9yIHggaW4gcmFuZ2UoMSxuKzEpXQogICAgZm9yIGkgaW4gcmFuZ2Uobik6CiAgICAgICAgaWYgaSA9PSBpZHg6CiAgICAgICAgICAgIGFyci5yZW1vdmUoYXJyW2ldKQogICAgICAgICAgICBhcnIuYXBwZW5kKDApCiAgICByZXR1cm4gYXJyCgpuPTYKYXJyID0gW2krMSBmb3IgaSBpbiByYW5nZShuKV0KaWR4ID0gMwpwcmludChkZWxldGVGcm9tQXJyKGFyciwgbiwgaWR4KSkKAAAAAAAAAAAFAQAAAAAAAAAAAAAAAAAAAAAAAAUBAAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC3AAAAAAAAACAAAAAAAAAAAAAAAAAA8L8"
+							"BQAAAAAAAAAAAAAAAAAAAAAAAAAFAQAAZGVmIGRlbGV0ZUZyb21BcnIoYXJyLCBuLCBpZHgpOgogICAgYXJyID0gW3ggZm9yIHggaW4gcmFuZ2UoMSxuKzEpXQogICAgZm9yIGkgaW4gcmFuZ2Uobik6CiAgICAgICAgaWYgaSA9PSBpZHg6CiAgICAgICAgICAgIGFyci5yZW1vdmUoYXJyW2ldKQogICAgICAgICAgICBhcnIuYXBwZW5kKDApCiAgICByZXR1cm4gYXJyCgpuPTYKYXJyID0gW2krMSBmb3IgaSBpbiByYW5nZShuKV0KaWR4ID0gMwpwcmludChkZWxldGVGcm9tQXJyKGFyciwgbiwgaWR4KSkKAAAAAAAAAAAFAQAAAAAAAAAAAAAAAAAAAAAAAAUBAAAAAAAAAAAAAAAAAAAAAAAACQEAAAAAAAAAAAAAAAAAAAAAAAAJAQAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAtwAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/vampirepapi/.config/i3/i3blocks.conf",
+					"settings":
+					{
+						"buffer_size": 3830,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							13,
+							1,
+							"",
+							null,
+							"AgAAAHgFAAAAAAAAeQUAAAAAAAAAAAAAeQUAAAAAAAB5BQAAAAAAAAMAAADviak",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB4BQAAAAAAAHkFAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": "chromium"
+							},
+							"CQAAAJ8FAAAAAAAAoAUAAAAAAAAAAAAAoAUAAAAAAACgBQAAAAAAAAcAAABmaXJlZm94oAUAAAAAAAChBQAAAAAAAAAAAAChBQAAAAAAAKIFAAAAAAAAAAAAAKIFAAAAAAAAowUAAAAAAAAAAAAAowUAAAAAAACkBQAAAAAAAAAAAACkBQAAAAAAAKUFAAAAAAAAAAAAAKUFAAAAAAAApgUAAAAAAAAAAAAApgUAAAAAAACnBQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACfBQAAAAAAAKYFAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/home/vampirepapi/.config/.gitignore",
+					"settings":
+					{
+						"buffer_size": 154,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "chromium"
+							},
+							"CAAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABZAAAAAAAAAAAAAABZAAAAAAAAAFoAAAAAAAAAAAAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "\ngal"
+							},
+							"BAAAAFwAAAAAAAAAXQAAAAAAAAAAAAAAXQAAAAAAAABeAAAAAAAAAAAAAABeAAAAAAAAAF8AAAAAAAAAAAAAAF8AAAAAAAAAYAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "culatio"
+							},
+							"BwAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAABlAAAAAAAAAGYAAAAAAAAAAAAAAGYAAAAAAAAAZwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							2,
+							"left_delete",
+							null,
+							"AgAAAGYAAAAAAAAAZgAAAAAAAAABAAAAb2UAAAAAAAAAZQAAAAAAAAABAAAAaQ",
+							"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "or"
+							},
+							"AgAAAGUAAAAAAAAAZgAAAAAAAAAAAAAAZgAAAAAAAABnAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAZQAAAAAAAABlAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": "\neos"
+							},
+							"BAAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAABpAAAAAAAAAGoAAAAAAAAAAAAAAGoAAAAAAAAAawAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "-log-to"
+							},
+							"BwAAAGsAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABtAAAAAAAAAAAAAABtAAAAAAAAAG4AAAAAAAAAAAAAAG4AAAAAAAAAbwAAAAAAAAAAAAAAbwAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHEAAAAAAAAAAAAAAHEAAAAAAAAAcgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": "l"
+							},
+							"AQAAAHIAAAAAAAAAcwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"left_delete",
+							null,
+							"AQAAAHIAAAAAAAAAcgAAAAAAAAABAAAAbA",
+							"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": "ol"
+							},
+							"AgAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB0AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAHQAAAAAAAAAdQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdAAAAAAAAAB0AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": "autostart"
+							},
+							"CQAAAHUAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB3AAAAAAAAAAAAAAB3AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAeQAAAAAAAAAAAAAAeQAAAAAAAAB6AAAAAAAAAAAAAAB6AAAAAAAAAHsAAAAAAAAAAAAAAHsAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAB9AAAAAAAAAAAAAAB9AAAAAAAAAH4AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAH4AAAAAAAAAfwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAfgAAAAAAAAB+AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "pulse"
+							},
+							"BQAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACBAAAAAAAAAAAAAACBAAAAAAAAAIIAAAAAAAAAAAAAAIIAAAAAAAAAgwAAAAAAAAAAAAAAgwAAAAAAAACEAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAIQAAAAAAAAAhQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhAAAAAAAAACEAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": "xed"
+							},
+							"AwAAAIUAAAAAAAAAhgAAAAAAAAAAAAAAhgAAAAAAAACHAAAAAAAAAAAAAACHAAAAAAAAAIgAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAIgAAAAAAAAAiQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": "dunst"
+							},
+							"BQAAAIkAAAAAAAAAigAAAAAAAAAAAAAAigAAAAAAAACLAAAAAAAAAAAAAACLAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjQAAAAAAAACOAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							23,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAI4AAAAAAAAAjwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": "mpv"
+							},
+							"AwAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAACRAAAAAAAAAJIAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjwAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							25,
+							1,
+							"insert",
+							{
+								"characters": "\nprovp"
+							},
+							"BgAAAJIAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJUAAAAAAAAAAAAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAlgAAAAAAAACXAAAAAAAAAAAAAACXAAAAAAAAAJgAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAkgAAAAAAAACSAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							2,
+							"left_delete",
+							null,
+							"AgAAAJcAAAAAAAAAlwAAAAAAAAABAAAAcJYAAAAAAAAAlgAAAAAAAAABAAAAdg",
+							"AQAAAAAAAAABAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"insert",
+							{
+								"characters": "cps"
+							},
+							"AwAAAJYAAAAAAAAAlwAAAAAAAAAAAAAAlwAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJkAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							28,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAJkAAAAAAAAAmgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmQAAAAAAAACZAAAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
@@ -612,26 +888,25 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 3,
 							"stack_multiselect": false,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
 							"file": "/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/problem/Array Delete And Shift.py",
-							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 261,
+								"buffer_size": 265,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										183,
-										32
+										0,
+										0
 									]
 								],
 								"settings":
@@ -644,12 +919,71 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 2,
 							"stack_multiselect": false,
 							"type": "text"
 						},
 						{
 							"buffer": 2,
+							"file": "/home/vampirepapi/.config/i3/i3blocks.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3830,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1447,
+										1447
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (INI).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1326.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/vampirepapi/.config/.gitignore",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 154,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										154,
+										154
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
 							"file": "/home/vampirepapi/nomad/Java Syntax/JavaConstructors.java",
 							"semi_transient": false,
 							"settings":
@@ -675,7 +1009,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 4,
 							"stack_multiselect": false,
 							"type": "text"
 						}
@@ -722,11 +1056,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,9,58,1909,1070,1920,1080,0",
+			"position": "0,0,0,0,0,963,58,1909,1070,1920,1080,0",
 			"project": "",
 			"replace":
 			{
-				"height": 120.0
+				"height": 86.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -763,7 +1097,7 @@
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 304.0,
 			"status_bar_visible": true,
 			"template_settings":
