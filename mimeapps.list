@@ -3,6 +3,6 @@ image/jpeg=org.gnome.gThumb.desktop;
 image/png=org.gnome.gThumb.desktop;
 application/x-shellscript=sublime_text.desktop;xed.desktop;
 text/x-python=nvim.desktop;xed.desktop;code.desktop;sublime_text.desktop;
-text/x-matlab=nvim.desktop;
+text/x-matlab=sublime_text.desktop;nvim.desktop;
 text/plain=sublime_text.desktop;nvim.desktop;
 text/x-java=sublime_text.desktop;

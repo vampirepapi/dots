@@ -329,6 +329,8 @@ for_window [class=TelegramDesktop] focus
 #
 # for custom config:
 #exec_always --no-startup-id picom --config  ~/.config/picom.conf
+# Start pixom on startx
+exec_always --no-startup-id picom -b --config ~/.config/picom/picom.conf
 
 #############################################
 # autostart applications/services on login: #
@@ -486,7 +488,7 @@ strip_workspace_numbers yes
 
 		    colors {
 		    separator          $purple
-		    background         $darkgrey
+		    background         $black
 		    statusline         $white
 #                          		border 		        bg		txt		indicator
 		focused_workspace	$mediumgrey	   	$grey		$darkgrey	$purple

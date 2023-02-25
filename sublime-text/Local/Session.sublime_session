@@ -1,7 +1,18 @@
 {
 	"file_history":
 	[
+		"/home/vampirepapi/nomad/Java Syntax/JavaConstructors.java",
+		"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/problem/Get Element At Index.py",
+		"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/problem/Array Delete And Shift.py",
+		"/home/vampirepapi/.config/i3/i3blocks.conf",
+		"/home/vampirepapi/.config/i3/config",
+		"/etc/xdg/picom.conf",
+		"/home/vampirepapi/.config/picom/picom.conf",
 		"/home/vampirepapi/.config/.gitignore",
+		"/home/vampirepapi/.config/sublime-text/Packages/User/Nord.sublime-color-scheme",
+		"/home/vampirepapi/.config/sublime-text/Packages/Nord/Nord.sublime-color-scheme",
+		"/home/vampirepapi/.config/sublime-text/Packages/ayu/ayu-mirage.sublime-theme",
+		"/home/vampirepapi/.config/sublime-text/Packages/User/ayu-mirage.sublime-theme",
 		"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/Remove Duplicates.py",
 		"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/Reverse a List in Python.py",
 		"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/Check if a list is Sorted.py",
@@ -15,12 +26,9 @@
 		"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/Largest Element in a List.py",
 		"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/Comprehensions in Python.py",
 		"/home/vampirepapi/nomad/InterviewPreparation/.git/config",
-		"/home/vampirepapi/nomad/Java Syntax/JavaConstructors.java",
 		"/home/vampirepapi/nomad/Java Syntax/MutltiParamsContructor.java",
 		"/run/media/vampirepapi/Elements/arch bak/nowhere/learning/interviewPreparation/.git/config",
-		"/home/vampirepapi/.config/i3/config",
 		"/home/vampirepapi/.gitconfig",
-		"/home/vampirepapi/.config/i3/i3blocks.conf",
 		"/home/vampirepapi/nomad/news scraping /rubbish.txt",
 		"/home/vampirepapi/nomad/news scraping /test.py",
 		"/home/vampirepapi/nomad/news scraping /subl type.py",
@@ -48,9 +56,9 @@
 		"/home/vampirepapi/nomad"
 	],
 	"last_version": 4143,
-	"last_window_id": 10,
+	"last_window_id": 12,
 	"log_indexing": false,
-	"next_update_check": 1673802991,
+	"next_update_check": 1677395216,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -58,8 +66,8 @@
 		"new_window_maximized": false,
 		"new_window_position":
 		[
-			964.0,
-			87.0
+			10.0,
+			89.0
 		],
 		"new_window_settings":
 		{
@@ -128,12 +136,24 @@
 				"selected_items":
 				[
 					[
-						"remove",
-						"Package Control: Remove Package"
+						"cust",
+						"UI: Customize Color Scheme"
 					],
 					[
 						"color",
 						"UI: Select Color Scheme"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
 					],
 					[
 						"insta",
@@ -157,10 +177,6 @@
 					],
 					[
 						"the",
-						"UI: Select Theme"
-					],
-					[
-						"theme",
 						"UI: Select Theme"
 					],
 					[
@@ -188,6 +204,13 @@
 			},
 			"file_history":
 			[
+				"/home/vampirepapi/nomad/Java Syntax/JavaConstructors.java",
+				"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/problem/Get Element At Index.py",
+				"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/problem/Array Delete And Shift.py",
+				"/home/vampirepapi/.config/i3/i3blocks.conf",
+				"/home/vampirepapi/.config/i3/config",
+				"/etc/xdg/picom.conf",
+				"/home/vampirepapi/.config/picom/picom.conf",
 				"/home/vampirepapi/.config/.gitignore",
 				"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/Second Largest Element in a list.py",
 				"/home/vampirepapi/nomad/InterviewPreparation/.gitignore",
@@ -195,12 +218,9 @@
 				"/home/vampirepapi/.config/.git/config",
 				"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/Comprehensions in Python.py",
 				"/home/vampirepapi/nomad/InterviewPreparation/.git/config",
-				"/home/vampirepapi/nomad/Java Syntax/JavaConstructors.java",
 				"/home/vampirepapi/nomad/Java Syntax/MutltiParamsContructor.java",
 				"/run/media/vampirepapi/Elements/arch bak/nowhere/learning/interviewPreparation/.git/config",
-				"/home/vampirepapi/.config/i3/config",
 				"/home/vampirepapi/.gitconfig",
-				"/home/vampirepapi/.config/i3/i3blocks.conf",
 				"/home/vampirepapi/nomad/news scraping /rubbish.txt",
 				"/home/vampirepapi/nomad/news scraping /test.py",
 				"/home/vampirepapi/nomad/news scraping /subl type.py",
@@ -222,7 +242,7 @@
 			],
 			"find":
 			{
-				"height": 45.0
+				"height": 67.0
 			},
 			"find_in_files":
 			{
@@ -236,6 +256,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"round",
 					")",
 					"("
 				],
@@ -361,334 +382,106 @@
 			"buffers":
 			[
 				{
-					"file": "/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/problem/Get Element At Index.py",
+					"file": "/home/vampirepapi/.config/picom/picom.conf",
 					"settings":
 					{
-						"buffer_size": 208,
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-						[
-							5,
-							1,
-							"revert",
-							null,
-							"AgAAAAAAAAAAAAAAAAAAAAAAAADRAAAAZGVmIGdldEVsZUF0SWR4KG4sIGwsIGlkeCk6CiAgICBpZiBuIC0gMSA8IGlkeDoKICAgICAgICByZXR1cm4gLTEKICAgIGZvciBpIGluIHJhbmdlKDAsIG4pOgogICAgICAgIGlmIGkgPT0gaWR4OgogICAgICAgICAgICByZXR1cm4gbFtpXQoKCm4gPSA0CmFyciA9IFsxLCAyLCAzLCA0XQppbmRleCA9IDAKCnByaW50KGdldEVsZUF0SWR4KG4sIGFyciwgaW5kZXgpKQoAAAAAAAAAANAAAAAAAAAAAAAAAA",
-							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							6,
-							1,
-							"revert",
-							null,
-							"BQAAAAAAAAAAAAAAAAAAAAAAAADQAAAAZGVmIGdldEVsZUF0SWR4KG4sIGwsIGlkeCk6CiAgICBpZiBuIC0gMSA8IGlkeDoKICAgICAgICByZXR1cm4gLTEKICAgIGZvciBpIGluIHJhbmdlKDAsIG4pOgogICAgICAgIGlmIGkgPT0gaWR4OgogICAgICAgICAgICByZXR1cm4gbFtpXQoKCm4gPSA0CmFyciA9IFsxLCAyLCAzLCA0XQppbmRleCA9IDAKcHJpbnQoZ2V0RWxlQXRJZHgobiwgYXJyLCBpbmRleCkpCgAAAAAAAAAA0AAAAAAAAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA",
-							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
-						]
-					]
-				},
-				{
-					"file": "/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/problem/Array Delete And Shift.py",
-					"settings":
-					{
-						"buffer_size": 265,
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-						[
-							8,
-							1,
-							"revert",
-							null,
-							"BQAAAAAAAAAAAAAAAAAAAAAAAAAFAQAAZGVmIGRlbGV0ZUZyb21BcnIoYXJyLCBuLCBpZHgpOgogICAgYXJyID0gW3ggZm9yIHggaW4gcmFuZ2UoMSxuKzEpXQogICAgZm9yIGkgaW4gcmFuZ2Uobik6CiAgICAgICAgaWYgaSA9PSBpZHg6CiAgICAgICAgICAgIGFyci5yZW1vdmUoYXJyW2ldKQogICAgICAgICAgICBhcnIuYXBwZW5kKDApCiAgICByZXR1cm4gYXJyCgpuPTYKYXJyID0gW2krMSBmb3IgaSBpbiByYW5nZShuKV0KaWR4ID0gMwpwcmludChkZWxldGVGcm9tQXJyKGFyciwgbiwgaWR4KSkKAAAAAAAAAAAFAQAAAAAAAAAAAAAAAAAAAAAAAAUBAAAAAAAAAAAAAAAAAAAAAAAACQEAAAAAAAAAAAAAAAAAAAAAAAAJAQAAAAAAAAAAAAA",
-							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAtwAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
-						]
-					]
-				},
-				{
-					"file": "/home/vampirepapi/.config/i3/i3blocks.conf",
-					"settings":
-					{
-						"buffer_size": 3830,
+						"buffer_size": 14137,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
 					"undo_stack":
 					[
-						[
-							13,
-							1,
-							"",
-							null,
-							"AgAAAHgFAAAAAAAAeQUAAAAAAAAAAAAAeQUAAAAAAAB5BQAAAAAAAAMAAADviak",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB4BQAAAAAAAHkFAAAAAAAAAAAAAAAA8L8"
-						],
-						[
-							18,
-							1,
-							"insert",
-							{
-								"characters": "chromium"
-							},
-							"CQAAAJ8FAAAAAAAAoAUAAAAAAAAAAAAAoAUAAAAAAACgBQAAAAAAAAcAAABmaXJlZm94oAUAAAAAAAChBQAAAAAAAAAAAAChBQAAAAAAAKIFAAAAAAAAAAAAAKIFAAAAAAAAowUAAAAAAAAAAAAAowUAAAAAAACkBQAAAAAAAAAAAACkBQAAAAAAAKUFAAAAAAAAAAAAAKUFAAAAAAAApgUAAAAAAAAAAAAApgUAAAAAAACnBQAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACfBQAAAAAAAKYFAAAAAAAAAAAAAAAA8L8"
-						]
-					]
-				},
-				{
-					"file": "/home/vampirepapi/.config/.gitignore",
-					"settings":
-					{
-						"buffer_size": 154,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-						[
-							3,
-							1,
-							"insert",
-							{
-								"characters": "chromium"
-							},
-							"CAAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABZAAAAAAAAAAAAAABZAAAAAAAAAFoAAAAAAAAAAAAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							4,
-							1,
-							"insert",
-							{
-								"characters": "\ngal"
-							},
-							"BAAAAFwAAAAAAAAAXQAAAAAAAAAAAAAAXQAAAAAAAABeAAAAAAAAAAAAAABeAAAAAAAAAF8AAAAAAAAAAAAAAF8AAAAAAAAAYAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							5,
-							1,
-							"insert",
-							{
-								"characters": "culatio"
-							},
-							"BwAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAABlAAAAAAAAAGYAAAAAAAAAAAAAAGYAAAAAAAAAZwAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							6,
-							2,
-							"left_delete",
-							null,
-							"AgAAAGYAAAAAAAAAZgAAAAAAAAABAAAAb2UAAAAAAAAAZQAAAAAAAAABAAAAaQ",
-							"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
-						],
 						[
 							7,
 							1,
-							"insert",
-							{
-								"characters": "or"
-							},
-							"AgAAAGUAAAAAAAAAZgAAAAAAAAAAAAAAZgAAAAAAAABnAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAZQAAAAAAAABlAAAAAAAAAAAAAAAAAPC/"
+							"left_delete",
+							null,
+							"AQAAAAwJAAAAAAAADAkAAAAAAAABAAAAMw",
+							"AQAAAAAAAAABAAAADQkAAAAAAAANCQAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							8,
 							1,
 							"insert",
 							{
-								"characters": "\neos"
+								"characters": "1"
 							},
-							"BAAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAABpAAAAAAAAAGoAAAAAAAAAAAAAAGoAAAAAAAAAawAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							9,
-							1,
-							"insert",
-							{
-								"characters": "-log-to"
-							},
-							"BwAAAGsAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABtAAAAAAAAAAAAAABtAAAAAAAAAG4AAAAAAAAAAAAAAG4AAAAAAAAAbwAAAAAAAAAAAAAAbwAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHEAAAAAAAAAAAAAAHEAAAAAAAAAcgAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							10,
-							1,
-							"insert",
-							{
-								"characters": "l"
-							},
-							"AQAAAHIAAAAAAAAAcwAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							11,
-							1,
-							"left_delete",
-							null,
-							"AQAAAHIAAAAAAAAAcgAAAAAAAAABAAAAbA",
-							"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+							"AQAAAAwJAAAAAAAADQkAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADAkAAAAAAAAMCQAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							12,
 							1,
 							"insert",
 							{
-								"characters": "ol"
+								"characters": "\\1"
 							},
-							"AgAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB0AAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+							"AgAAAIsJAAAAAAAAjAkAAAAAAAAAAAAAjAkAAAAAAACNCQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAiwkAAAAAAACLCQAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							13,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAAHQAAAAAAAAAdQAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAdAAAAAAAAAB0AAAAAAAAAAAAAAAAAPC/"
+							2,
+							"left_delete",
+							null,
+							"AgAAAIwJAAAAAAAAjAkAAAAAAAABAAAAMYsJAAAAAAAAiwkAAAAAAAABAAAAXA",
+							"AQAAAAAAAAABAAAAjQkAAAAAAACNCQAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							14,
 							1,
-							"insert",
-							{
-								"characters": "autostart"
-							},
-							"CQAAAHUAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB3AAAAAAAAAAAAAAB3AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAeQAAAAAAAAAAAAAAeQAAAAAAAAB6AAAAAAAAAAAAAAB6AAAAAAAAAHsAAAAAAAAAAAAAAHsAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAB9AAAAAAAAAAAAAAB9AAAAAAAAAH4AAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+							"left_delete",
+							null,
+							"AQAAAIoJAAAAAAAAigkAAAAAAAABAAAAMw",
+							"AQAAAAAAAAABAAAAiwkAAAAAAACLCQAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							15,
 							1,
 							"insert",
 							{
-								"characters": "\n"
+								"characters": "1"
 							},
-							"AQAAAH4AAAAAAAAAfwAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAfgAAAAAAAAB+AAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							16,
-							1,
-							"insert",
-							{
-								"characters": "pulse"
-							},
-							"BQAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACBAAAAAAAAAAAAAACBAAAAAAAAAIIAAAAAAAAAAAAAAIIAAAAAAAAAgwAAAAAAAAAAAAAAgwAAAAAAAACEAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							17,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAAIQAAAAAAAAAhQAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAhAAAAAAAAACEAAAAAAAAAAAAAAAAAPC/"
+							"AQAAAIoJAAAAAAAAiwkAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAigkAAAAAAACKCQAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							18,
 							1,
-							"insert",
-							{
-								"characters": "xed"
-							},
-							"AwAAAIUAAAAAAAAAhgAAAAAAAAAAAAAAhgAAAAAAAACHAAAAAAAAAAAAAACHAAAAAAAAAIgAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+							"left_delete",
+							null,
+							"AQAAAAwJAAAAAAAADAkAAAAAAAABAAAAMQ",
+							"AQAAAAAAAAABAAAADQkAAAAAAAANCQAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							19,
 							1,
 							"insert",
 							{
-								"characters": "\n"
+								"characters": "5"
 							},
-							"AQAAAIgAAAAAAAAAiQAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+							"AQAAAAwJAAAAAAAADQkAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADAkAAAAAAAAMCQAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							22,
 							1,
-							"insert",
-							{
-								"characters": "dunst"
-							},
-							"BQAAAIkAAAAAAAAAigAAAAAAAAAAAAAAigAAAAAAAACLAAAAAAAAAAAAAACLAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjQAAAAAAAACOAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
+							"left_delete",
+							null,
+							"AQAAAIoJAAAAAAAAigkAAAAAAAABAAAAMQ",
+							"AQAAAAAAAAABAAAAiwkAAAAAAACLCQAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							23,
 							1,
 							"insert",
 							{
-								"characters": "\n"
+								"characters": "5"
 							},
-							"AQAAAI4AAAAAAAAAjwAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							24,
-							1,
-							"insert",
-							{
-								"characters": "mpv"
-							},
-							"AwAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAACRAAAAAAAAAJIAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAjwAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							25,
-							1,
-							"insert",
-							{
-								"characters": "\nprovp"
-							},
-							"BgAAAJIAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJUAAAAAAAAAAAAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAlgAAAAAAAACXAAAAAAAAAAAAAACXAAAAAAAAAJgAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAkgAAAAAAAACSAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							26,
-							2,
-							"left_delete",
-							null,
-							"AgAAAJcAAAAAAAAAlwAAAAAAAAABAAAAcJYAAAAAAAAAlgAAAAAAAAABAAAAdg",
-							"AQAAAAAAAAABAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							27,
-							1,
-							"insert",
-							{
-								"characters": "cps"
-							},
-							"AwAAAJYAAAAAAAAAlwAAAAAAAAAAAAAAlwAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJkAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							28,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAAJkAAAAAAAAAmgAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAmQAAAAAAAACZAAAAAAAAAAAAAAAAAPC/"
+							"AQAAAIoJAAAAAAAAiwkAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAigkAAAAAAACKCQAAAAAAAAAAAAAAAPC/"
 						]
 					]
-				},
-				{
-					"file": "/home/vampirepapi/nomad/Java Syntax/JavaConstructors.java",
-					"settings":
-					{
-						"buffer_size": 209,
-						"line_ending": "Unix"
-					}
 				}
 			],
 			"build_system": "",
@@ -719,12 +512,24 @@
 				"selected_items":
 				[
 					[
-						"remove",
-						"Package Control: Remove Package"
+						"cust",
+						"UI: Customize Color Scheme"
 					],
 					[
 						"color",
 						"UI: Select Color Scheme"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
 					],
 					[
 						"insta",
@@ -748,10 +553,6 @@
 					],
 					[
 						"the",
-						"UI: Select Theme"
-					],
-					[
-						"theme",
 						"UI: Select Theme"
 					],
 					[
@@ -783,6 +584,13 @@
 			],
 			"file_history":
 			[
+				"/home/vampirepapi/nomad/Java Syntax/JavaConstructors.java",
+				"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/problem/Get Element At Index.py",
+				"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/problem/Array Delete And Shift.py",
+				"/home/vampirepapi/.config/i3/i3blocks.conf",
+				"/home/vampirepapi/.config/i3/config",
+				"/etc/xdg/picom.conf",
+				"/home/vampirepapi/.config/picom/picom.conf",
 				"/home/vampirepapi/.config/.gitignore",
 				"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/Second Largest Element in a list.py",
 				"/home/vampirepapi/nomad/InterviewPreparation/.gitignore",
@@ -790,12 +598,9 @@
 				"/home/vampirepapi/.config/.git/config",
 				"/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/Comprehensions in Python.py",
 				"/home/vampirepapi/nomad/InterviewPreparation/.git/config",
-				"/home/vampirepapi/nomad/Java Syntax/JavaConstructors.java",
 				"/home/vampirepapi/nomad/Java Syntax/MutltiParamsContructor.java",
 				"/run/media/vampirepapi/Elements/arch bak/nowhere/learning/interviewPreparation/.git/config",
-				"/home/vampirepapi/.config/i3/config",
 				"/home/vampirepapi/.gitconfig",
-				"/home/vampirepapi/.config/i3/i3blocks.conf",
 				"/home/vampirepapi/nomad/news scraping /rubbish.txt",
 				"/home/vampirepapi/nomad/news scraping /test.py",
 				"/home/vampirepapi/nomad/news scraping /subl type.py",
@@ -817,7 +622,7 @@
 			],
 			"find":
 			{
-				"height": 45.0
+				"height": 67.0
 			},
 			"find_in_files":
 			{
@@ -831,6 +636,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"round",
 					")",
 					"("
 				],
@@ -863,153 +669,33 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/problem/Get Element At Index.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 208,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										137,
-										137
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/vampirepapi/nomad/InterviewPreparation/DS-With-Python/List Basic/problem/Array Delete And Shift.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 265,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/vampirepapi/.config/i3/i3blocks.conf",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3830,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1447,
-										1447
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (INI).sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 1326.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/vampirepapi/.config/.gitignore",
+							"file": "/home/vampirepapi/.config/picom/picom.conf",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 154,
+								"buffer_size": 14137,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										154,
-										154
+										2443,
+										2443
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+									"syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (INI).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2042.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/vampirepapi/nomad/Java Syntax/JavaConstructors.java",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 209,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Java/Java.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
 							"stack_multiselect": false,
 							"type": "text"
 						}
@@ -1056,7 +742,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,963,58,1909,1070,1920,1080,0",
+			"position": "0,0,0,0,0,9,58,1909,1070,1920,1080,0",
 			"project": "",
 			"replace":
 			{
